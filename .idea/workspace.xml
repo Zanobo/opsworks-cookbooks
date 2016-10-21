@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b194bbf-55c5-451f-ba58-759b4e3bc520" name="Default" comment="" />
+    <list default="true" id="1b194bbf-55c5-451f-ba58-759b4e3bc520" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsworks_ruby/metadata.rb" afterPath="$PROJECT_DIR$/opsworks_ruby/metadata.rb" />
+    </list>
     <ignored path="opsworks-cookbooks.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -20,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Berksfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Berksfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/opsworks_ruby/Berksfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -30,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metadata.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="metadata.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/opsworks_ruby/metadata.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -80,6 +82,7 @@
       <list>
         <option value="$PROJECT_DIR$/opsworks_ruby/.rubocop.yml" />
         <option value="$PROJECT_DIR$/opsworks_ruby/Berksfile" />
+        <option value="$PROJECT_DIR$/opsworks_ruby/metadata.rb" />
       </list>
     </option>
   </component>
@@ -266,12 +269,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477034985837</updated>
-      <workItem from="1477034987285" duration="2407000" />
+      <workItem from="1477034987285" duration="3084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2407000" />
+    <option name="totallyTimeSpent" value="3084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1912" height="1032" extended-state="1" />
@@ -336,14 +339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opsworks_ruby/metadata.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opsworks_ruby/chefignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -356,6 +351,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opsworks_ruby/metadata.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>
