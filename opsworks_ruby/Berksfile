@@ -2,6 +2,8 @@
 source 'https://supermarket.chef.io'
 solver :ruby, :required
 
+ENV['SSL_CERT_FILE'] = 'C:\Users\Nolan\.ssh\cacert.pem'
+
 metadata
 
 cookbook 'deployer'

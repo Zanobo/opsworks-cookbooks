@@ -2,7 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b194bbf-55c5-451f-ba58-759b4e3bc520" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deployer/metadata.rb" afterPath="$PROJECT_DIR$/deployer/metadata.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/attributes/default.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/metadata.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/recipes/default.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/templates/default/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/templates/default/authorized_keys.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/auth_request.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/default.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/devel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/echo.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/geoip.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/headers_more.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/lua.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/naxsi.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/openssl_source.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/pagespeed.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/passenger.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/rate_limiting.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/repo.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/set_misc.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/socketproxy.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/source.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/status.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/syslog.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/attributes/upload_progress.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/definitions/nginx_site.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/files/default/mime.types" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/files/default/naxsi_core.rules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/libraries/matchers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/metadata.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/authorized_ips.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/commons.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/commons_conf.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/commons_dir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/commons_script.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/default.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/headers_more_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_auth_request_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_echo_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_geoip_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_gzip_static_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_mp4_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_perl_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_realip_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_spdy_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_ssl_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/http_stub_status_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/ipv6.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/lua.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/naxsi_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/ngx_devel_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/ngx_lua_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/ohai_plugin.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/openssl_source.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/package.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/pagespeed_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/passenger.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/repo.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/repo_passenger.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/set_misc.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/socketproxy.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/source.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/syslog_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/recipes/upload_progress_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/debian/nginx.init.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/default-site.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/modules/authorized_ip.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/modules/http_geoip.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/modules/http_gzip_static.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/modules/http_realip.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/modules/nginx_status.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/modules/passenger.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/modules/socketproxy.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/modules/upload_progress.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/nginx-upstart.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/nginx.conf.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/nginx.init.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/nginx.pill.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/nginx.sysconfig.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/nxdissite.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/nxensite.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/plugins/nginx.rb.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/sv-nginx-log-run.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/default/sv-nginx-run.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/gentoo/nginx.init.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/suse/nginx.init.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nginx/templates/ubuntu/nginx.init.erb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsworks_ruby/Berksfile" afterPath="$PROJECT_DIR$/opsworks_ruby/Berksfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsworks_ruby/Gemfile" afterPath="$PROJECT_DIR$/opsworks_ruby/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsworks_ruby/Gemfile.lock" afterPath="$PROJECT_DIR$/opsworks_ruby/Gemfile.lock" />
     </list>
     <ignored path="opsworks-cookbooks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,11 +117,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Berksfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Berksfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/opsworks_ruby/Berksfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="88">
+              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -42,21 +137,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metadata.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/deployer/metadata.rb">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opsworks_ruby/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deployer/attributes/default.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -101,9 +186,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/opsworks_ruby/.rubocop.yml" />
-        <option value="$PROJECT_DIR$/opsworks_ruby/Berksfile" />
         <option value="$PROJECT_DIR$/opsworks_ruby/metadata.rb" />
         <option value="$PROJECT_DIR$/deployer/metadata.rb" />
+        <option value="$PROJECT_DIR$/opsworks_ruby/Gemfile" />
+        <option value="$PROJECT_DIR$/opsworks_ruby/Berksfile" />
       </list>
     </option>
   </component>
@@ -172,52 +258,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="opsworks_ruby" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opsworks-cookbooks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opsworks-cookbooks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nginx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opsworks-cookbooks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opsworks-cookbooks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="deployer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opsworks-cookbooks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="opsworks-cookbooks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="deployer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attributes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -336,12 +376,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477034985837</updated>
-      <workItem from="1477034987285" duration="3430000" />
+      <workItem from="1477034987285" duration="5800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3430000" />
+    <option name="totallyTimeSpent" value="5800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1912" height="1032" extended-state="0" />
@@ -414,14 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opsworks_ruby/Berksfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deployer/attributes/default.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -430,10 +462,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opsworks_ruby/metadata.rb">
+    <entry file="file://$PROJECT_DIR$/deployer/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -446,10 +478,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deployer/metadata.rb">
+    <entry file="file://$PROJECT_DIR$/opsworks_ruby/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        <state relative-caret-position="242">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opsworks_ruby/metadata.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opsworks_ruby/Berksfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
           <folding />
         </state>
       </provider>
