@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b194bbf-55c5-451f-ba58-759b4e3bc520" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsworks_ruby/.rubocop.yml" afterPath="$PROJECT_DIR$/opsworks_ruby/.rubocop.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsworks_ruby/Berksfile" afterPath="$PROJECT_DIR$/opsworks_ruby/Berksfile" />
-    </list>
+    <list default="true" id="1b194bbf-55c5-451f-ba58-759b4e3bc520" name="Default" comment="" />
     <ignored path="opsworks-cookbooks.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -269,15 +266,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477034985837</updated>
-      <workItem from="1477034987285" duration="2042000" />
+      <workItem from="1477034987285" duration="2407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2042000" />
+    <option name="totallyTimeSpent" value="2407000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1912" height="1032" extended-state="0" />
+    <frame x="0" y="0" width="1912" height="1032" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -340,6 +337,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/opsworks_ruby/metadata.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opsworks_ruby/chefignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
