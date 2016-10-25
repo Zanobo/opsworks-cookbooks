@@ -10,8 +10,8 @@
 #
 #normal[:rails][:version] = "2.3.18"
 
-node[:deploy].each do |application, deploy|
-  node.default[:deploy][application][:static_assets][:compilation_env] = 'staging'
-  node.default[:deploy][application][:environments] = ['development', 'production'] +
-    [node.default[:deploy][application][:static_assets][:compilation_env]]
-end
+#node[:deploy].each do |application, deploy|
+#  node.default[:deploy][application][:static_assets][:compilation_env] = 'staging'
+#  node.default[:deploy][application][:environments] = ['development', 'production'] +
+#    [node.default[:deploy][application][:static_assets][:compilation_env]]
+#end
