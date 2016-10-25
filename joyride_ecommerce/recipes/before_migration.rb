@@ -1,3 +1,6 @@
+include_recipe 'deploy'
+include_recipe 'deploy::rails'
+
 Chef::Log.info("Running deploy/before_migrate.rb in myapp app...")
 ENV['RAILS_ENV'] = node[:deploy][:myapp][:rails_env]
 current_release = release_path
